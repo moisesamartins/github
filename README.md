@@ -2,7 +2,7 @@
 <h1> Como usar o GitHub na prática</h1></br>
 1 - Criar uma conta no github (https://github.com/)</br> 
 2 - Criar um repositório no github</br>
-- …or create a new repository on the command line</br>
+<h3>- …or create a new repository on the command line</h3></br>
 Link: https://github.com/moisesamartins/github.git</br></br>
 
 Configurações global</br>
@@ -19,32 +19,32 @@ git remote add origin https://github.com/moisesamartins/github.git</br>
 git status</br>
 
 #Criar um arquivo</br> 
-README.md
-#Adicionar o arquivo para o commit
-git add .\README.md
+README.md</br>
+#Adicionar o arquivo para o commit</br>
+git add .\README.md</br>
 
-#Especificar a nossa breanch
-git branch -M main
+#Especificar a nossa breanch</br>
+git branch -M main</br>
 
-#Fazer o commit para nosso repossitório remoto
-git commit -m "Primeiro commit"
+#Fazer o commit para nosso repossitório remoto</br>
+git commit -m "Primeiro commit"</br>
 
-#Enviar para repositório remoto
-git push -u origin main
+#Enviar para repositório remoto</br>
+git push -u origin main</br>
 
-git add README.md
-git commit -m "first commit"
-git branch -M main
+git add README.md</br>
+git commit -m "first commit"</br>
+git branch -M main</br>
 
-git push -u origin main
+git push -u origin main</br></br>
 
-- …or push an existing repository from the command line
-git remote add origin https://github.com/moisesamartins/github.git
-git branch -M main
-git push -u origin main
+<h3> …or push an existing repository from the command line</h3></br>
+git remote add origin https://github.com/moisesamartins/github.git</br>
+git branch -M main</br>
+git push -u origin main</br></br>
 
-- …or import code from another repository
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+<h3> …or import code from another repository</h3></br>
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.</br>
 
 3 - 
 
