@@ -7,10 +7,12 @@
 <h1> Como usar o GitHub na prática</h1>
 
 <h2>História</h2>
+<lo>
 <h2>Criar conta no GitHub</h2>
-1 - Para criar sua conta entre no site do  
+<lu>Criar conta do GitHub</lu>
+Para criar sua conta entre no site do  
 <a href="https://github.com/">GitHub</a></br> 
-2 - Criar um repositório no github</br>
+<lu>Criar um repositório no github</lu></br>
 <h3>…or create a new repository on the command line</h3></br>
 Link: https://github.com/moisesamartins/github.git</br></br>
 
@@ -56,5 +58,5 @@ git push -u origin main</br></br>
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.</br>
 
 3 - 
-
+</lo>
 </html>
