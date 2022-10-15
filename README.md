@@ -1,24 +1,24 @@
 <html>
 <h1> Como usar o GitHub na prática</h1></br>
-1 - Criar uma conta no github (https://github.com/) 
-2 - Criar um repositório no github
-- …or create a new repository on the command line
-Link: https://github.com/moisesamartins/github.git
+1 - Criar uma conta no github (https://github.com/)</br> 
+2 - Criar um repositório no github</br>
+- …or create a new repository on the command line</br>
+Link: https://github.com/moisesamartins/github.git</br></br>
 
-Configurações global
- git config --global user.name "Moisés Martins"
- git config --global user.email "moisesam@gmail.com"
+Configurações global</br>
+ git config --global user.name "Moisés Martins"</br>
+ git config --global user.email "moisesam@gmail.com"</br>
 
-#Criar os diretórios no repositorio remoto
+#Criar os diretórios no repositorio remoto</br>
 git init
 
-#Conectar com o repositório remoto
-git remote add origin https://github.com/moisesamartins/github.git
+#Conectar com o repositório remoto</br>
+git remote add origin https://github.com/moisesamartins/github.git</br>
 
-#Verificar o estatus
-git status
+#Verificar o estatus</br>
+git status</br>
 
-#Criar um arquivo 
+#Criar um arquivo</br> 
 README.md
 #Adicionar o arquivo para o commit
 git add .\README.md
