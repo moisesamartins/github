@@ -7,7 +7,9 @@
 <h1> Como usar o GitHub na prática</h1>
 
 <h2>História</h2>
-1 - Criar uma conta no github (https://github.com/)</br> 
+<h2>Criar conta no GitHub</h2>
+1 - Para criar sua conta entre no site do  
+<a href="https://github.com/">GitHub</a></br> 
 2 - Criar um repositório no github</br>
 <h3>…or create a new repository on the command line</h3></br>
 Link: https://github.com/moisesamartins/github.git</br></br>
