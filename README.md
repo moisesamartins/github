@@ -4,7 +4,7 @@
 <meta charset="UTF8" />
 </header>
 <title>
-<h1> Como usar o GitHub na prática</h1></br>
+<h1> Como usar o GitHub na prática</h1>
 </title>
 <h2>História</h2>
 1 - Criar uma conta no github (https://github.com/)</br> 
