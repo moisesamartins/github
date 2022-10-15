@@ -1,8 +1,15 @@
-<html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<header>
+<meta charset="UTF8" />
+</header>
+<title>
 <h1> Como usar o GitHub na prática</h1></br>
+</title>
+<h2>História</h2>
 1 - Criar uma conta no github (https://github.com/)</br> 
 2 - Criar um repositório no github</br>
-<h3>- …or create a new repository on the command line</h3></br>
+<h3>…or create a new repository on the command line</h3></br>
 Link: https://github.com/moisesamartins/github.git</br></br>
 
 Configurações global</br>
@@ -38,12 +45,12 @@ git branch -M main</br>
 
 git push -u origin main</br></br>
 
-<h3> …or push an existing repository from the command line</h3></br>
+<h3>…or push an existing repository from the command line</h3></br>
 git remote add origin https://github.com/moisesamartins/github.git</br>
 git branch -M main</br>
 git push -u origin main</br></br>
 
-<h3> …or import code from another repository</h3></br>
+<h3>…or import code from another repository</h3></br>
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.</br>
 
 3 - 
