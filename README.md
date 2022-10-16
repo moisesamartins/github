@@ -17,8 +17,8 @@ Para criar sua conta entre no site do
 Link: https://github.com/moisesamartins/github.git</br></br>
 
 Configurações global</br>
- git config --global user.name "Moisés Martins"</br>
- git config --global user.email "moisesam@gmail.com"</br>
+ git config --global user.name "Seu Nome e Sobre Nome"</br>
+ git config --global user.email "seuemail@provedor.com"</br>
 
 #Criar os diretórios no repositorio remoto</br>
 git init
