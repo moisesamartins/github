@@ -60,5 +60,5 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 </lo>
 <h3>Fontes Consultadas</h3></br> 
 <a href="https://www.youtube.com/watch?v=kB5e-gTAl_s">Curso de Git e Github COMPLETO 2021 [Iniciantes] + Desafios + Muita Prática - Canal Dev Apreder</a></br>
-<a href="https://www.youtube.com/watch?v=UBAX-13g8OM">COMO USAR GIT E GITHUB NA PRÁTICA! - desde o primeiro commit até o pull request! 2/2</a></br>
+<a href="https://www.youtube.com/watch?v=UBAX-13g8OM">COMO USAR GIT E GITHUB NA PRÁTICA! - desde o primeiro commit até o pull request! 2/2 - Canal Rafaella Ballerini</a></br>
 </html>
